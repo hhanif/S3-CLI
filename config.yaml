@@ -1,0 +1,8 @@
+# TODO: implement configuration
+minio:
+  server: 127.0.0.1:9000
+  user: developer
+  password: strong_password
+
+bucket_name: platform-interview
+file_content: Lorem ipsum odor amet, consectetuer adipiscing elit.
